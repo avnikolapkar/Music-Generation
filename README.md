@@ -1,6 +1,20 @@
 # Music-Generation
 Music Generation using XLSTM
 
+# Introduction :
+
+Implemented an xLSTM-based model for sequential music generation. 
+
+Generated coherent and musically plausible compositions across various musical styles. 
+
+Evaluated the xLSTM model's performance against established baselines in terms of musical quality and novelty. 
+
+Explored xLSTM's capability in capturing long-term musical dependencies and structural elements. 
+
+Developed a user-friendly interface for generating and interacting with the music.
+
+
+
 # Steps:
 
 1. Create a folder by the name "data"
